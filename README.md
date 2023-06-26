@@ -25,6 +25,6 @@ The test results of all the regression models are evaluated and compared. We che
 Further, we tried other models such as random forest and Xgboost. With the help of this model, we got better R2 scores and metrics.
 
 
-Here is the presentation link:
+### Here is the presentation link:
 https://github.com/Ashfaquesayyed/Yes-bank-stock-closing-price-prediction/blob/main/yesbank%20presentation.pdf
 
