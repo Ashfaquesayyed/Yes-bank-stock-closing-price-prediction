@@ -4,3 +4,4 @@ The term stock price refers to the current price that a share of stock is tradin
 
 
 Here is the presentation link:
+https://github.com/Ashfaquesayyed/Yes-bank-stock-closing-price-prediction/blob/main/yesbank%20presentation.pdf
