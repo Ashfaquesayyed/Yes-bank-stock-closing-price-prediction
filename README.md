@@ -1,10 +1,5 @@
-<style>
-.my-font {
-  font-size: 20px;
-}
-</style>
+Yes Bank Stock Price Closing Prediction
 
-<span class="my-font">Yes bank stock price closing prediction>
 
 
 The term stock price refers to the current price that a share of stock is trading for on the market. The price of a stock will go up and down in relation to a number of different factors, including changes within the economy as a whole, changes within industries, political events, war, and environmental changes. In this project, we are predicting yes bank stock closing price with the help of the regression models.  The given dataset consists of features such as the open, close, low, and high price of the stock of yes bank on a monthly basis.
