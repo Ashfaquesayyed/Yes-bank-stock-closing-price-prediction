@@ -1,4 +1,4 @@
-#hi Yes Bank Stock Price Closing Prediction
+# Yes Bank Stock Price Closing Prediction
 
 
 
